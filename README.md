@@ -1,3 +1,3 @@
 # TheMovieDBApp
 
-This is a simple app testing TheMovieDB.org API.
+This is a simple iOS app testing TheMovieDB.org API.
